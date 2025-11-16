@@ -5,4 +5,13 @@ sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
 yum install jenkins -y
 systemctl status jenkins
 systemctl start jenkins
+
+
+
+zjnnzxjnjxjx
+x
+
+x
+x
+x
 systemctl status jenkins
