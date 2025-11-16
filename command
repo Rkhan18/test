@@ -7,6 +7,12 @@ systemctl status jenkins
 systemctl start jenkins
 
 
+skxzkxzkmxk
+x
+x
+x
+
+
 
 zjnnzxjnjxjx
 x
